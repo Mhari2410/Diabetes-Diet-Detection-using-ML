@@ -84,6 +84,4 @@ P.A. College of Engineering and Technology
 
 ```
 
----
-
 
