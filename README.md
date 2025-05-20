@@ -1,8 +1,5 @@
 # Diabetes-Diet-Detection-using-ML
 Machine learning-based system to predict diabetes and suggest suitable diet plans.
-Certainly, Haripriya! Here's your complete and corrected `README.md` for the **Mini Project: Diabetes Detection and Diet Plan Generation using Machine Learning**:
-
----
 
 ````markdown
 # 🩺 Diabetes Detection and Diet Plan Generation using Machine Learning
